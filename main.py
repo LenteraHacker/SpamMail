@@ -10,8 +10,8 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;     S P A M  E M A I L    ;
 		;---------------------------;
-		; Author : Kang-newbie      ;
-		; Contact : t.me/kang_nuubi ;
+		; Author : DW BY KANG NEWBUI      ;
+		; Contact : _dewabaskara_10 ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 1. Spam BPJS
